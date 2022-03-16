@@ -2,7 +2,6 @@
 
 The script shows the exemplary application of the function ScoreCalc() using an example data set. The following files are required for Example_Calculator.R  :
 
-* Example_Calculator.R 
 * IDEFICS_Score_Calculator.R
 * all_para_tables.RData
 * Example_Data.csv
